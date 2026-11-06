@@ -1,5 +1,4 @@
 package it.unibo.inner.api;
-
 /**
  * This interface represents an iterable collection with a policy.
  * The policy is used to filter out the elements during the iteration.
